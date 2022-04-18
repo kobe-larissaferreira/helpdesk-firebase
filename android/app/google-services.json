@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1024877451229",
+    "project_id": "decode-a6dd9",
+    "storage_bucket": "decode-a6dd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024877451229:android:c416244cfbd5b0bc334834",
+        "android_client_info": {
+          "package_name": "com.helpdesk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024877451229-q27gbmcfeddk6ojaci93u0h58tgdpnd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7pYzzc6dwEADudq6MKepdY4GWLrKmMCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024877451229-q27gbmcfeddk6ojaci93u0h58tgdpnd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
